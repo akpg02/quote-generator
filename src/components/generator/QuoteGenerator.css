@@ -1,0 +1,36 @@
+.quotes-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 5px 10px #30819c;
+  padding: 5rem 2rem;
+  border-radius: 1rem;
+  background-color: #fff;
+}
+
+.quotes-container h1 {
+  margin-bottom: 3rem;
+  font-size: 4rem;
+}
+
+.quotes-container h3 {
+  text-transform: uppercase;
+  letter-spacing: 0.75rem;
+  font-size: 2.2rem;
+}
+
+.button-group {
+  margin-top: 6rem;
+}
+
+.button-group button {
+  padding: 2.5rem 8rem;
+  border-radius: 5rem;
+  background-color: #4fabc9;
+  cursor: pointer;
+}
+
+.button-group button:hover {
+  background-color: #30819c;
+}

@@ -1,0 +1,8 @@
+.categories {
+  font-size: 1.5rem;
+  margin: 6rem 2rem;
+  padding: 1.5rem 5rem;
+  background-color: #e6e6e6;
+  cursor: pointer;
+  text-transform: capitalize;
+}
