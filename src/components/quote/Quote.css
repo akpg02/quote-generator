@@ -20,6 +20,7 @@
 }
 
 .quote-box {
+  font-family: "Roboto", sans-serif;
   padding: 3rem 10rem;
   background-color: #ebf6f9;
   border-radius: 2rem;
